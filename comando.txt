@@ -1,1 +1,3 @@
+Despúes de instalar MySQL server y workbench ejecutar el siguiente comando en la shell para instalar el conector de Python3 con MySQL.
+
 python3 -m pip install mysql-connector-python
